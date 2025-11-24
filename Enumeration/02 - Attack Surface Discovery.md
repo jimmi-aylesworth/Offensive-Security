@@ -1,6 +1,6 @@
 # Passive
 
-1. Identify Primary Domain
+1. Identify Domain(s)
 2. DNS footprinting
    - DNS Servers
    - A records
