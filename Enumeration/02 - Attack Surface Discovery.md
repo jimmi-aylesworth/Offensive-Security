@@ -1,6 +1,6 @@
 # Passive
 
-1. Identify Domain(s)
+1. Identify Top Level Domain(s)
 2. DNS footprinting
    - DNS Servers
    - A records
