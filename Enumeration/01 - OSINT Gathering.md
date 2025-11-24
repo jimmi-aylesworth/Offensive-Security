@@ -4,7 +4,7 @@
    - [CrocTail](http://croctail.corpwatch.org)
    - [Securities and Exchange Commission](https://www.sec.gov/edgar/searchedgar/companysearch.html)
    - [Google](https://google.com)
-3. Get TLDS
+3. Get Top Level Domains (TLD)
    - [SecurityTrails](https://securitytrails.com/)
    - [RiskIQ](https://community.riskiq.com/search)
    - [SANCrawler](https://github.com/cramppet/sancrawler2)
